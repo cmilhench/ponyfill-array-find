@@ -1,8 +1,6 @@
 # ponyfill-array-find [![Build Status](https://travis-ci.org/cmilhench/ponyfill-array-find.svg?branch=master)](https://travis-ci.org/cmilhench/ponyfill-array-find)
 
-> ES6 [`Array.find()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find) ponyfill
-
-> Ponyfill: A polyfill that doesn't overwrite the native method
+> ES6 [`Array.find()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find) [ponyfill](https://ponyfill.com)
 
 
 ## Install
